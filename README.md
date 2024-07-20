@@ -6,6 +6,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/KanakShrivastava/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/KanakShrivastava/LeetCode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/KanakShrivastava/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
 | ------- |
