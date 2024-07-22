@@ -36,4 +36,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/KanakShrivastava/LeetCode/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/KanakShrivastava/LeetCode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
