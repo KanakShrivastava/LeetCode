@@ -13,6 +13,7 @@
 | [0189-rotate-array](https://github.com/KanakShrivastava/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/KanakShrivastava/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/KanakShrivastava/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/KanakShrivastava/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/KanakShrivastava/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/KanakShrivastava/LeetCode/tree/master/0189-rotate-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/KanakShrivastava/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,4 +72,8 @@
 | [1258-article-views-i](https://github.com/KanakShrivastava/LeetCode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/KanakShrivastava/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/KanakShrivastava/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/KanakShrivastava/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
