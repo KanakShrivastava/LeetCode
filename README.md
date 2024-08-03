@@ -23,6 +23,7 @@
 | [0048-rotate-image](https://github.com/KanakShrivastava/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/KanakShrivastava/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/KanakShrivastava/LeetCode/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/KanakShrivastava/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0058-length-of-last-word](https://github.com/KanakShrivastava/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/KanakShrivastava/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/KanakShrivastava/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/KanakShrivastava/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/KanakShrivastava/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/KanakShrivastava/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
