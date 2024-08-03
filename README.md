@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/KanakShrivastava/LeetCode/tree/master/0058-length-of-last-word) |
+| [1078-remove-outermost-parentheses](https://github.com/KanakShrivastava/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -89,4 +90,8 @@
 | ------- |
 | [0048-rotate-image](https://github.com/KanakShrivastava/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/KanakShrivastava/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/KanakShrivastava/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
