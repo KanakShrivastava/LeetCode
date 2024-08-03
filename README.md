@@ -28,6 +28,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/KanakShrivastava/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/KanakShrivastava/LeetCode/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/KanakShrivastava/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/KanakShrivastava/LeetCode/tree/master/0189-rotate-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/KanakShrivastava/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/KanakShrivastava/LeetCode/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/KanakShrivastava/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/KanakShrivastava/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Divide and Conquer
 |  |
