@@ -20,6 +20,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/KanakShrivastava/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/KanakShrivastava/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/KanakShrivastava/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/KanakShrivastava/LeetCode/tree/master/0268-missing-number) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KanakShrivastava/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/KanakShrivastava/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/KanakShrivastava/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/KanakShrivastava/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/KanakShrivastava/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -62,6 +64,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/KanakShrivastava/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/KanakShrivastava/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/KanakShrivastava/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/KanakShrivastava/LeetCode/tree/master/0151-reverse-words-in-a-string) |
